@@ -1,0 +1,11 @@
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\bin\Debug\netcoreapp2.1\Lesson 4.deps.json
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\bin\Debug\netcoreapp2.1\Lesson 4.runtimeconfig.json
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\bin\Debug\netcoreapp2.1\Lesson 4.runtimeconfig.dev.json
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\bin\Debug\netcoreapp2.1\Lesson 4.dll
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\bin\Debug\netcoreapp2.1\Lesson 4.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.AssemblyInfoInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.AssemblyInfo.cs
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.dll
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 4\obj\Debug\netcoreapp2.1\Lesson 4.pdb
