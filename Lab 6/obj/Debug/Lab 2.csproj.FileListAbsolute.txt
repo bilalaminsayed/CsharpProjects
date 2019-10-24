@@ -1,0 +1,40 @@
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 2\obj\Debug\Lab_2.bankForm.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\bin\Debug\Lab 2.exe.config
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\bin\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\bin\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab_2.bankForm.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 4\obj\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab_2.bankForm.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\obj\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\bin\Debug\Lab 2.exe.config
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\bin\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 5\bin\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\bin\Debug\Lab 2.exe.config
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\bin\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\bin\Debug\Lab 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab_2.bankForm.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lab 6\obj\Debug\Lab 2.pdb
