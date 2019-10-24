@@ -1,0 +1,10 @@
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\bin\Debug\Lesson 2.exe.config
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\bin\Debug\Lesson 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson 2.csprojAssemblyReference.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson_2.Form1.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson_2.Properties.Resources.resources
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson 2.csproj.GenerateResource.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson 2.csproj.CoreCompileInputs.cache
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson 2.exe
+C:\Users\minib\OneDrive\NLC\2019SU\Adv C# Pgm (ITSE-2453-55420)\source\repos\Lesson 2\obj\Debug\Lesson 2.pdb
